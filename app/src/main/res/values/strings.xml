@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loading-DataAndView-Frame</string>
+    <string name="load_error">重新加载</string>
+
+</resources>
