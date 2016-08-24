@@ -12,6 +12,7 @@ public class MyApplication extends Application {
     /**
      * Android应用的入口函数：
      * 应用启动的时候，会首先执行的方法
+     * 少定义
      */
     @Override
     public void onCreate() {
